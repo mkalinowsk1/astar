@@ -4,4 +4,4 @@ This repository contains a visual implementation of the A\* (A-star) algorithm, 
 ## Technologies Used
 
 - **Programming Language**: Go (Golang)
-- **SDL
+- **SDL**
